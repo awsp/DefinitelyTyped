@@ -3440,7 +3440,7 @@ interface daterangeConfig{
 	gravity?: number;
 	height?: number;
 	hidden?: boolean;
-	icons?: boolean|object;
+	icons?: boolean|Object;
 	id?: string|number;
 	isolate?: boolean;
 	margin?: number;
